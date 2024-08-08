@@ -1,5 +1,5 @@
 {
-  "regions": ["sfo1"],
+  "regions": ["hkg1"],
   "routes": [
     {
       "src": "/live/.*",
